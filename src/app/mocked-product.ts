@@ -22,11 +22,4 @@ export const PRODUCTS: Product[] = [
     weight: 2000,
     description: 'An inexpensive, but effective way to stop your coworkers from complaining about the heat.'
   },
-  {
-    id: 'ac-4',
-    name: 'A fan',
-    price: 1.00,
-    weight: 1,
-    description: 'Test Artikel 4.'
-  },
 ];
